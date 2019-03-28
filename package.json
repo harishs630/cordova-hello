@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-hello",
+  "version": "0.1.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-hello",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "harish",
+  "license": "ISC"
+}
